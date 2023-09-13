@@ -1,2 +1,2 @@
 # GoblinQuest
-game
+Text-Based RPG game.
